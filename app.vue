@@ -2,61 +2,62 @@
 <div class="container container--landing">
   <Logo />
   <div class="contact">
-      <ul class="contact__list">
-        <li class="contact__item">Maurits Meester</li>
-        <li class="contact__item">Developer</li>
-        <li class="contact__item">Innovation consultant</li>
-      </ul>
-      <ul class="contact__list">
-        <li class="contact__item">
-          <a class="contact__link" href="tel:0031613757305">+31 6 137 57 305</a>
-        </li>
-        <li class="contact__item">
-          <a class="contact__link" href="mailto:maurits@e-mmer.nl">
-            maurits@e-mmer.nl
-          </a>
-        </li>
-      </ul>
-      <ul class="contact__list">
-        <li class="contact__item">
-          <a
-            class="contact__link"
-            title="Github: Maurits Meester"
-            target="_blank"
-            href="https://github.com/mmeester"
-            >Github</a
-          >
-        </li>
-        <li class="contact__item">
-          <a
-            class="contact__link"
-            title="Linkedin: Maurits Meester"
-            target="_blank"
-            href="https://www.linkedin.com/in/mauritsmeester/"
-            >Linkedin</a
-          >
-        </li>
-        <li class="contact__item">
-          <a
-            class="contact__link"
-            title="Twitter: Maurits Meester"
-            target="_blank"
-            href="https://twitter.com/mmeester"
-            >Twitter</a
-          >
-        </li>
-        <li class="contact__item">
-          <a
-            class="contact__link"
-            title="Instagram: Maurits Meester"
-            target="_blank"
-            href="https://www.instagram.com/mmeester/"
-            >Instagram</a
-          >
-        </li>
-      </ul>
-    </div>
-    </div>
+    <ul class="contact__list">
+      <li class="contact__item">Maurits Meester</li>
+      <li class="contact__item">Developer</li>
+      <li class="contact__item">Innovation consultant</li>
+    </ul>
+    <ul class="contact__list">
+      <li class="contact__item">
+        <a class="contact__link" href="tel:0031613757305">+31 6 137 57 305</a>
+      </li>
+      <li class="contact__item">
+        <a class="contact__link" href="mailto:maurits@e-mmer.nl">
+          maurits@e-mmer.nl
+        </a>
+      </li>
+    </ul>
+    <ul class="contact__list">
+      <li class="contact__item">
+        <a
+          class="contact__link"
+          title="Github: Maurits Meester"
+          target="_blank"
+          href="https://github.com/mmeester"
+          >Github</a
+        >
+      </li>
+      <li class="contact__item">
+        <a
+          class="contact__link"
+          title="Linkedin: Maurits Meester"
+          target="_blank"
+          href="https://www.linkedin.com/in/mauritsmeester/"
+          >Linkedin</a
+        >
+      </li>
+      <li class="contact__item">
+        <a
+          class="contact__link"
+          title="Twitter: Maurits Meester"
+          target="_blank"
+          href="https://twitter.com/mmeester"
+          >Twitter</a
+        >
+      </li>
+      <li class="contact__item">
+        <a
+          class="contact__link"
+          title="Instagram: Maurits Meester"
+          target="_blank"
+          href="https://www.instagram.com/mmeester/"
+          >Instagram</a
+        >
+      </li>
+    </ul>
+  </div>
+</div>
+<PoweredByNuxt class="powered"/>
 </template>
 
 <style lang="scss" scoped>
@@ -136,6 +137,13 @@
   &__link {
     color: $text-color;
   }
+}
+
+.powered {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  color: $text-color;
 }
 </style>
 
