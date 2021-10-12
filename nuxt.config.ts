@@ -1,7 +1,6 @@
 import { defineNuxtConfig } from 'nuxt3'
 
 export default defineNuxtConfig({
-  target: 'static',
   css: ['@/assets/scss/main.scss'],
   meta: {
     title: 'e-mmer Interactive | Maurits Meester',
