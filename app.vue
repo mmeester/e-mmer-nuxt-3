@@ -22,7 +22,7 @@
         <a
           class="contact__link"
           title="Github: Maurits Meester"
-          target="_blank"
+          target="_blank" rel=”noreferrer”
           href="https://github.com/mmeester"
           >Github</a
         >
@@ -31,7 +31,7 @@
         <a
           class="contact__link"
           title="Linkedin: Maurits Meester"
-          target="_blank"
+          target="_blank" rel=”noreferrer”
           href="https://www.linkedin.com/in/mauritsmeester/"
           >Linkedin</a
         >
@@ -40,7 +40,7 @@
         <a
           class="contact__link"
           title="Twitter: Maurits Meester"
-          target="_blank"
+          target="_blank" rel=”noreferrer”
           href="https://twitter.com/mmeester"
           >Twitter</a
         >
@@ -49,7 +49,7 @@
         <a
           class="contact__link"
           title="Instagram: Maurits Meester"
-          target="_blank"
+          target="_blank" rel=”noreferrer”
           href="https://www.instagram.com/mmeester/"
           >Instagram</a
         >

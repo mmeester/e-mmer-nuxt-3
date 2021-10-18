@@ -5,6 +5,7 @@ export default defineNuxtConfig({
   meta: {
     title: 'e-mmer Interactive | Maurits Meester',
     meta: [
+      { lang: 'nl' },
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       {

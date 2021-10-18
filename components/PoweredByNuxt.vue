@@ -1,5 +1,5 @@
 <template>
-  <a href="https://v3.nuxtjs.org/" target="_blank">Powered by Nuxt 3 🥳</a>
+  <a href="https://v3.nuxtjs.org/" rel=”noreferrer” target="_blank">Powered by Nuxt 3 🥳</a>
 </template>
 
 <script lang="ts">
