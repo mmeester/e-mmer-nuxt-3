@@ -3,6 +3,9 @@ import { defineNuxtConfig } from 'nuxt3'
 export default defineNuxtConfig({
   css: ['@/assets/scss/main.scss'],
   meta: {
+    htmlAttrs: {
+      lang: 'nl'
+    },
     title: 'e-mmer Interactive | Maurits Meester',
     meta: [
       { lang: 'nl' },
