@@ -9,16 +9,6 @@
     </ul>
     <ul class="contact__list">
       <li class="contact__item">
-        <a class="contact__link" href="tel:0031613757305">+31 6 137 57 305</a>
-      </li>
-      <li class="contact__item">
-        <a class="contact__link" href="mailto:maurits@e-mmer.nl">
-          maurits@e-mmer.nl
-        </a>
-      </li>
-    </ul>
-    <ul class="contact__list">
-      <li class="contact__item">
         <a
           class="contact__link"
           title="Github: Maurits Meester"
@@ -41,8 +31,8 @@
           class="contact__link"
           title="Twitter: Maurits Meester"
           target="_blank" rel=”noreferrer”
-          href="https://twitter.com/mmeester"
-          >Twitter</a
+          href="https://x.com/mmeester"
+          >X</a
         >
       </li>
       <li class="contact__item">
